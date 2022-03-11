@@ -13,8 +13,12 @@ app.use(morgan("dev"))
 app.use(express.json())
 
 //rutas
-app.use("/api/pruebas", require("./routes/rutas"));
+app.use("/api.tecedu.com", require("./routes/rutas"));
 
 //Empezando el proyecto
 app.listen(app.get("port"))
-console.log("lolwasd")
+
+
+
+
+

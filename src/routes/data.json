@@ -1,19 +1,180 @@
 [
-    {
-        "var1": "valor1",
-        "var2": "valor2",
-        "var3": "valor3",
-        "var4": "valor4",
-        "var5": "valor5",
-        "var6": "valor6",
-        "var7": "valor7"
-    },
-    {
-        "var8": "valor8",
-        "var9": "valor9",
-        "var10": "valor10"
-    },
-    {
-        "var11": "valor11"
-    }
+  {
+    "id": "1",
+    "Herramienta": "Google Drive",
+    "Descripcion": "Plataforma de intercambio de información",
+    "Utilidad": "Permite compartir y guardar archivos en la nube",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Nube"
+    ],
+    "Complejidad": "Fácil",
+    "Costo": "Gratuito",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "2",
+    "Herramienta": "BlackBoard",
+    "Descripcion": "Plataforma digital de colaboración en conjunto, estudiante-profesor",
+    "Utilidad": "Permite revisar, subir y compartir información sobre las actividades curriculares y extra curriculares",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Web-app"
+    ],
+    "Complejidad": "Media",
+    "Costo": "9,500.00 USD",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "3",
+    "Herramienta": "Miro",
+    "Descripcion": "Pizarrón digital interactivo",
+    "Utilidad": "Permite dibujar, escribir y compartir imágenes, aportaciones y retroalimentaciones al momento",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Web-app"
+    ],
+    "Complejidad": "Media",
+    "Costo": "0.00 - 16.00 USD",
+    "Materias": [
+      "Matemáticas",
+      "Física",
+      "Electrónica",
+      "Química",
+      "Mecánica"
+    ]
+  },
+  {
+    "id": "4",
+    "Herramienta": "Zoom",
+    "Descripcion": "Plataforma para programar clases a través de videoconferencias",
+    "Utilidad": "Permite al profesor impartir su clase a distancia, a la hora que fijen los interesados y a un gran número de alumnos",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Programa"
+    ],
+    "Complejidad": "Fácil",
+    "Costo": "0.00 - 240.00 USD",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "5",
+    "Herramienta": "intel Classmate PC",
+    "Descripcion": "Laptop de uso escolar con programas de Microsoft",
+    "Utilidad": "Permite la creación, búsqueda, diseño e interacción con archivos y datos digitales",
+    "Tipo": [
+      "Computador",
+      "Hardware",
+      "Interactivo"
+    ],
+    "Complejidad": "Difícil",
+    "Costo": "175.00 - 350.00 USD",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "6",
+    "Herramienta": "BenQ Proyector MS536",
+    "Descripcion": "Proyector de Video",
+    "Utilidad": "Permite proyectar la imagen o video correspondiente en una pantalla de proyección",
+    "Tipo": [
+      "Hardware",
+      "Proyector",
+      "Audiovisual"
+    ],
+    "Complejidad": "Fácil",
+    "Costo": "200.00 USD",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "7",
+    "Herramienta": "Precisión OS",
+    "Descripcion": "Simulador virtual de operaciones quirúrgicas",
+    "Utilidad": "Permite al alumno realizar simulaciones virtuales, asistidas por el mismo programa",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Realidad Virtual",
+      "Interactivo"
+    ],
+    "Complejidad": "Difícil",
+    "Costo": "1000.00 USD",
+    "Materias": [
+      "Medicina",
+      "Anatomía",
+      "Cirugía",
+      "Neurocirugía",
+      "Bío-Ingeniería"
+    ]
+  },
+  {
+    "id": "8",
+    "Herramienta": "Kahoot!",
+    "Descripcion": "Herramienta de cuestionarios de evaluación interactivos",
+    "Utilidad": "Permite la creación de cuestionarios de evaluación mediante concursos en donde los alumnos son los concursantes",
+    "Tipo": [
+      "Digital",
+      "Software",
+      "Web-app",
+      "Interactivo",
+      "Juego"
+    ],
+    "Complejidad": "Fácil",
+    "Costo": "Gratuito",
+    "Materias": [
+      "Cualquiera"
+    ]
+  },
+  {
+    "id": "9",
+    "Herramienta": "Horno Mufla Para Laboratorio (modelo J-01)",
+    "Descripcion": "Horno Metalúrgico",
+    "Utilidad": "Permite la fusión y la reducción de minerales de hierro, con vistas a elaborar la fundición",
+    "Tipo": [
+      "Horno",
+      "Fundición",
+      "Calor"
+    ],
+    "Complejidad": "Media",
+    "Costo": "800.00 USD",
+    "Materias": [
+      "Mecánica",
+      "Metalurgia",
+      "Materiales",
+      "Manufactura"
+    ]
+  },
+  {
+    "id": "10",
+    "Herramienta": "Osciloscopio Hantek DSO5102P",
+    "Descripcion": "Osciloscopio",
+    "Utilidad": "Permite la representación gráfica de señales eléctricas que pueden variar en el tiempo",
+    "Tipo": [
+      "Hardware",
+      "Lector",
+      "interactivo"
+    ],
+    "Complejidad": "Difícil",
+    "Costo": "350.00 USD",
+    "Materias": [
+      "Electrónica",
+      "Analógica",
+      "Circuitos",
+      "Señales",
+      "Potencia"
+    ]
+  }
 ]
